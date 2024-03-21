@@ -3,7 +3,7 @@ Test MyPlugin :
 activeAdsBeginYESactiveAdsLast		YES to enable    Other or Empty to disable
 
 showAdsCountBegin2showAdsCountLast
-orderMediationLinkBeginhttps://raw.githubusercontent.com/G-DevSt/C0/main/SM%20EvilGranny%20C0/OrderFile.txtorderMediationLinkLast
+orderMediationLinkBeginhttps://raw.githubusercontent.com/G-DevSt/SM/main/C1%20Granny%20Police/OrderFile.txtorderMediationLinkLast
 
 ADMOBIDBeginADMOBIDLast        
 ADMOBbanBeginADMOBbanLast		
@@ -14,7 +14,7 @@ FANbanBeginFANbanLast    IMG_16_9_LINK#
 FANinterBeginFANinterLast IMG_16_9_LINK#   
 FANrewBeginFANrewLast IMG_16_9_LINK#  
 
-UnityGameIDBegin5560245UnityGameIDLast
+UnityGameIDBegin5578363UnityGameIDLast
  
 MAXsdkKeybanBeginMAXsdkKeybanLast      
 MAXbanBeginMAXbanLast      
