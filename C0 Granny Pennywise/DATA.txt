@@ -5,7 +5,7 @@ activeAdsBeginYESactiveAdsLast		YES to enable    Other or Empty to disable
 showAdsCountBegin2showAdsCountLast
 orderMediationLinkBeginhttps://raw.githubusercontent.com/G-DevSt/SM/main/C0%20Granny%20Pennywise/OrderFile.txtorderMediationLinkLast
 
-ADMOBIDBeginca-app-pub-4159281980067233~5048081389ADMOBIDLast        
+ADMOBIDBeginca-app-pub-3940256099942544~3347511713ADMOBIDLast        
 ADMOBbanBeginca-app-pub-4159281980067233/4993183012ADMOBbanLast		
 ADMOBinterBeginca-app-pub-4159281980067233/4035324565ADMOBinterLast		
 ADMOBrewBeginca-app-pub-4159281980067233/3680101345ADMOBrewLast		
